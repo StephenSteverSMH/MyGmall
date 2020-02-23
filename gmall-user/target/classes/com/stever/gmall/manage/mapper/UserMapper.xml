@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE com.stever.gmall.manage.mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-com.stever.gmall.manage.mapper.dtd">
+<com.stever.gmall.manage.mapper namespace="com.stever.gmall.user.com.stever.gmall.manage.mapper.UserMapper">
+
+</com.stever.gmall.manage.mapper>

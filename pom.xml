@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.stever.gmall</groupId>
+    <artifactId>gmall-all</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>gmall-user</module>
+        <module>gmall-parent</module>
+        <module>gmall-api</module>
+        <module>gmail-common-util</module>
+        <module>gmall-service-util</module>
+        <module>gmall-web-util</module>
+        <module>gmail-user-service</module>
+        <module>gmall-user-web</module>
+        <module>gmall-manage-web</module>
+        <module>gmall-manage-service</module>
+        <module>gmall-item-web</module>
+        <module>gmall-search-web</module>
+        <module>gmail-search-service</module>
+        <module>gmail-cart-web</module>
+        <module>gmail-cart-service</module>
+        <module>gmall-passwod-web</module>
+        <module>gmall-order-web</module>
+        <module>gmall-order-service</module>
+        <module>gmall-payment</module>
+    </modules>
+
+
+</project>
